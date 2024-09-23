@@ -39,7 +39,7 @@ Materials
       		A ruler or measuring tape will suffice as movement and attack range is measured in inches. 
   	Environment
 		Environment pieces can be constructed or bought and help add a layer of complexity to your maps. Using matching pieces can create a level of immersion 
-		and reality to the battle field and focusing on variety can allow for unexpected dimensions and possibilities. Choosing your terrain pieces can be 
+		and reality to the battlefield and focusing on variety can allow for unexpected dimensions and possibilities. Choosing your terrain pieces can be 
 		as collaborative or as competitive as you and your opponent want.
 
 Setup
@@ -51,11 +51,11 @@ Setup
 	with one side dedicated as the Battlefield and the other as the Command Field. This space size will affect details in the game-type section
 
     Battlefield
-      the battlefield is a 2-foot by 2-foot area where all the miniatures and environment pieces are played and moved around. This is divided into 3 sections
-	-Player 1’s area: the 2-foot wide by 3-inch long section nearest to them
-	-Player 2’s area: the 2-foot wide by 3-inch long section nearest to them
-	-No Slime’s Land: the 2-foot by 1.5-foot section that divides them in the middle
-      The two-player areas function as spawn points for that respective player. 
+      	the battlefield is a 2-foot by 2-foot area where all the miniatures and environment pieces are played and moved around. This is divided into 3 sections
+		-Player 1’s area: the 2-foot wide by 3-inch long section nearest to them
+		-Player 2’s area: the 2-foot wide by 3-inch long section nearest to them
+		-No Slime’s Land: the 2-foot by 1.5-foot section that divides them in the middle
+     	The two player areas function as spawn points for that respective player. 
   
     Command Field
        In the command field is where cards are played, dice are rolled and minis are held when not in play. Each player is given equal space to arrange as they 
@@ -69,9 +69,26 @@ Setup
   
       Keeping these two sections separated is necessary to make it clear to the opponent and yourself what you have at your disposal.
 
-
 Turn order
   Turn order is decided by rolling your dice. Highest roller starts. Both players draw a hand of 7 cards and the game can begin. 
+
+Map Building
+	Basics
+		Eco-points
+			each environmental piece has an eco-point value based on its size. this value is paid from a maximum determined in the game-type rules
+			
+			Calculating points
+				the pieces are measured in inches 3-Dimensionally. The height, width, and length are measured at the longest points and then multiplied
+				(HxWxL) to get the volumetric size of the piece. follow the chart to determine the eco-point value of the pieces.
+	Turn Actions
+		during each building turn players can do one of two actions:
+		Play
+			players expend eco points to place a piece anywhere in the no-slime's-land section of the battlefield.
+		Move
+			players can choose one piece already on the battlefield and then move anywhere else in the no-slime's-land section of the battlefield. this can
+			be done a specific number of times as outlined in the game-type rules
+	Finishing
+		once a player runs out of valid actions, they can no longer interact with the map. once both players are done the game can begin.
 
 Gameplay
 	Basics
@@ -139,7 +156,7 @@ Gameplay
 		          Spell type
 		            Either Act or React type. this denotes if the card has a reactionary effect
 		          React cost
-		            The amount of droplets to be expended to play this spell from your hand during your opponents turn
+		            The amount of droplets to be expended to play this spell from your hand during your opponent's turn
 		          Effect
 		            the special ability or action the Spell does.
 		          Droplet Value
@@ -189,8 +206,8 @@ Gameplay
             Slash
         
         Cover
-          When attacking, if there's a wall between your slime and its target, cover must be considered. The cover status of a slime is dependant on the size of the slime and the hight of the wall. When a slime is covered they cannot be attacked. however when half covered, you remove 1 die from your attack roll, combat is calculated normally after that.
-          If the target slime is covered vertically such as by a pilar, cover rules also apply. If 50% or les of the target slime is covered from the attacking slime’s perspective
+          When attacking, if there's a wall between your slime and its target, cover must be considered. The cover status of a slime is dependent on the size of the slime and the hight of the wall. When a slime is covered they cannot be attacked. however when half covered, you remove 1 die from your attack roll, combat is calculated normally after that.
+          If the target slime is covered vertically such as by a pilar, cover rules also apply. If 50% or less of the target slime is covered from the attacking slime’s perspective
 
           Small slimes
             Half cover: ½ in minimum
