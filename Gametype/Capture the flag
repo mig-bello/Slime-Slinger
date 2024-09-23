@@ -1,0 +1,10 @@
+Additional Components
+    2 flag minis
+    2 flagbarer minis
+    2 flagbarer slime cards
+Map
+Objective
+    First player to reach a point goal wins. Both players start with a flag in their main spawn. Slimes must go to the enemy spawn, collect the flag by touching it, 
+    and bring back the flag to their base. Every time this is completed you gain 1 point. This must be done with your flag still at your spawn to count. When a 
+    slime collects a flag they are converted into a “flagbarer slime”. When flagbarer is defeated the flag is dropped in the exact same spot. If you touch your flag
+    outside of your spawn it will be immediately returned to its original place at your spawn.
