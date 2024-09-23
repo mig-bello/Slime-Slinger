@@ -1,0 +1,66 @@
+Key Words
+  Key words are indicated by brackets which surround them. These key words follow specific rules and better inform you on the mechanics of cards while being more concise. 
+  key words often appear with a number, for example: [Heal(2)].  these numbers are referred to as modifyers. Modifyers provide additional information such as how many dice
+  are rolled or the distance from a target your keyword is applying its affect. This will be further explained in each keyword entry.
+  
+  Below is a list of key words arranged alphabetically for reference during gameplay. 
+  
+    Ace: Class
+        Usually the strongest and most expensive class of slime. Decks are generally built around these powerful slimes
+    
+    AOE: Class
+    		This slime class specializes in attacking multiple targets at once
+    
+    Attack: “[Attack(2)] any enemy within 2””
+        This keyword serves similar to the ATK stat on slimes. The modifier tells you how many dice to roll against the specified target 
+    
+    Beast: Class
+    
+    Bludgeon: Attack type
+    
+    Builder: Class
+    		A Class of slime specializing in supporting support items
+    
+    Cost: “[cost(-1)] for this card”
+        Cost as a keyword is used to mark a change in the play cost of a target by the modifier
+    
+    Climb: “[Climb(3)]”
+        The climb action describes vertical movement along a wall. As a Keyword it allows you to move vertically by the modifiers distance without subtracting from the target’s movement range.
+    
+    Deploy: “[Deploy(1)] by a small slime you control.” 
+        deploying is usually associated with support items and is the action of bringing them into play. The modifier indicates the max distance from the deployer the support can be play. The target specified is the deployer 
+    
+    Flying: Movement
+    
+    Ground: Movement
+    
+    Heal: “[Heal(2)] 1 slime in attack range.” 
+        Heal allows you to raise a targets hp up to their max hp value. The modifier states how many dice are rolled for this effect. When rolling, your d6 must beat your targets defence and if it does you max raise it by one point for each successful roll.
+    
+    Healer: Class
+        A class of slime that specializes in supporting other slimes. 
+    
+    Large: Size
+        A slime that occupied a 2in diameter base
+    
+    Longe Range: Class
+    		A class dedicated to hitting further away targets.
+    
+    Mage: Class
+        A slime class that aids in and/or benefits from playing spells
+    
+    Mid Range: Class
+    		A class of slime that can attack targets without having to get too close
+  
+    Piercing: Attack type
+    
+    Reaction: “[Reaction] if a support is deployed” 
+        Reactions are effects that can be activated regardless of whose turn it is as long as the conditions are met
+    
+    Short range: Class
+        A class of slime that needs to get very close to attack but can deliver devistating damage. 
+    
+    Slashing: Attack type
+  
+    Small: Size
+        A slime the occupies a 1in diameter base
