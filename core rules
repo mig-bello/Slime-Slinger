@@ -1,7 +1,7 @@
 ver: Alpha 2.0.0
 Foreword
 
-  This rule book will change during this process. During testing any provisional rules will be forked from this main doc as a beta for each version. 
+    This rule book will change during this process. During testing any provisional rules will be forked from this main doc as a beta for each version. 
   It will then be re-implemented into the main line as the testing is proven to work. As it stands this game is in its basic first form. 
   Very little differentiates the slime themes aside from just that: theming. As we continue forward we will add identifying elements into the themes 
   that fall in line with their personalities. It helps to think of this prototype kit as a starter set meaning everything must be balanced and 
@@ -9,55 +9,56 @@ Foreword
 
 Intro
 
-  Slime Slinger is a small-scale strategy board game that uses TCG elements as its main resource system. You will take control of an army of slimes to 
+    Slime Slinger is a small-scale strategy board game that uses TCG elements as its main resource system. You will take control of an army of slimes to 
   defeat your opponents’ slimes. Use strategic equipment, powerful spells, and your cunning to become the champion slime master.
   
-  Slime slingers use ectoplasm to animate cores. These slimes can evolve into complex and powerful forms when imbued with increasing amounts of ectoplasm 
+    Slime slingers use ectoplasm to animate cores. These slimes can evolve into complex and powerful forms when imbued with increasing amounts of ectoplasm 
   drops. Personalize your slimes with cards and figures and create your unstoppable and adorable slime army
 
 
 Materials
- This game is intended to be a wargame with a low barrier of entry, which means the rules are clear and easy to understand, however, there is quite a bit 
-  of prep that a game entails not the least of which is collecting and preparing your materials. Each section below will both list and provide a general 
-  overview of the necessary elements for the game.
+	  This game is intended to be a wargame with a low barrier of entry, which means the rules are clear and easy to understand, however, there is quite a bit 
+	of prep that a game entails not the least of which is collecting and preparing your materials. Each section below will both list and provide a general 
+	overview of the necessary elements for the game.
 
-  Cards 
-    Of the 2 most important materials, the cards offer the most customization in the way of gameplay. Your deck will hold the information and strategies 
-    you can implement into your game, so constructing a deck with a balance of slimes, support and spell cards is crucial to seizing victory.
-    -Deckbuilding
-      In this set, both players have identical decks. You can only have 3 copies of a card in a deck
-      Miniatures
-      Miniatures are intended to be easily obtainable and fully customizable as far as aesthetic goes. Once you have a deck theme that speaks to you, creating 
-      a slime squad that represents your vision is completely up to you. The sky is the limit with how far your imagination will carry you and your slimes. 
-  Collecting 
-    STL files are available for download and printing at the official repositories. These minis can also be purchased from our official stores if 3D printing 
-    is not an appealing option. It is preferable to have a mini for each slime card you have but may not be wholly necessary based on how your deck is constructed.
-  Painting
-  	-Dice
-      A collection of six-sided dice is necessary for calculating battles and effects, a minimum of 4-6 is recommended to allow for easier play.
-  	-Measuring Device
-      A ruler or measuring tape will suffice as movement and attack range is measured in inches. 
-  	-Environment
-      Environment pieces can be constructed or bought and help add a layer of complexity to your maps. Using matching pieces can create a level of immersion 
-      and reality to the battle field and focusing on variety can allow for unexpected dimensions and possibilities. Choosing your terrain pieces can be 
-      as collaborative or as competitive as you and your opponent want.
+	Cards 
+	    	Of the 2 most important materials, the cards offer the most customization in the way of gameplay. Your deck will hold the information and strategies 
+		you can implement into your game, so constructing a deck with a balance of slimes, support and spell cards is crucial to seizing victory.
+	    -Deckbuilding
+		In this set, both players have identical decks. You can only have 3 copies of a card in a deck. additional cards will be added as the progress continues
+	Miniatures
+		Miniatures are intended to be easily obtainable and fully customizable as far as aesthetic goes. Once you have a deck theme that speaks to you, creating 
+		a slime squad that represents your vision is completely up to you. The sky is the limit with how far your imagination will carry you and your slimes. 
+  	    -Collecting 
+		STL files are available for download and printing at the official repositories. These minis can also be purchased from our official stores if 3D printing 
+		is not an appealing option. It is preferable to have a mini for each slime card you have but may not be wholly necessary based on how your deck is constructed.
+	    -Painting
+  	Dice
+      		A collection of six-sided dice is necessary for calculating battles and effects, a minimum of 4-6 is recommended to allow for easier play.
+  	Measuring Device
+      		A ruler or measuring tape will suffice as movement and attack range is measured in inches. 
+  	Environment
+		Environment pieces can be constructed or bought and help add a layer of complexity to your maps. Using matching pieces can create a level of immersion 
+		and reality to the battle field and focusing on variety can allow for unexpected dimensions and possibilities. Choosing your terrain pieces can be 
+		as collaborative or as competitive as you and your opponent want.
 
 Setup
-  Once you and your opponent have collected all your materials it is time to begin your set up. This is a collaborative effort allowing both you and your
-  opponent to express yourselves
+	Once you and your opponent have collected all your materials it is time to begin your set up. This is a collaborative effort allowing both you and your
+      opponent to express yourselves
+
   Play area
-    A 2-foot long by 4-foot wide space is the minimum for the play area with options for expansion in development. The play area is divided down the middle, 
-    with one side dedicated as the Battlefield and the other as the Command Field. This space size will affect details in the game-type section
+	A 2-foot long by 4-foot wide space is the minimum for the play area with options for expansion in development. The play area is divided down the middle,
+	with one side dedicated as the Battlefield and the other as the Command Field. This space size will affect details in the game-type section
 
     Battlefield
       the battlefield is a 2-foot by 2-foot area where all the miniatures and environment pieces are played and moved around. This is divided into 3 sections
-      Player 1’s area: the 2-foot wide by 3-inch long section nearest to them
-      Player 2’s area: the 2-foot wide by 3-inch long section nearest to them
-      No Slime’s Land: the 2-foot by 1.5-foot section that divides them in the middle
+	-Player 1’s area: the 2-foot wide by 3-inch long section nearest to them
+	-Player 2’s area: the 2-foot wide by 3-inch long section nearest to them
+	-No Slime’s Land: the 2-foot by 1.5-foot section that divides them in the middle
       The two-player areas function as spawn points for that respective player. 
   
     Command Field
-      In the command field is where cards are played, dice are rolled and minis are held when not in play. Each player is given equal space to arrange as they 
+       In the command field is where cards are played, dice are rolled and minis are held when not in play. Each player is given equal space to arrange as they 
       please but on each side there are 2 sections that should be distinct from each other:
 
       -Slime pool zone: 
@@ -75,74 +76,74 @@ Turn order
 Gameplay
 	Basics
 		Card types
-      Slimes
-        These cards are used to play your slime miniatures onto the battlefield and track their health, attack, defense, etc. It also describes their effects
-        which can help you turn the tide of battle. 
-        Anatomy
-          Name
-            The name of the card.
-          HP(Health Points)
-            The value that determines how many successful attacks this slime can sustain before being destroyed. (Ie. reaching 0)
-          Cost
-            The amount of droplets to be expended to play this slime from your hand
-          Class
-            The role of this slime
-          Family
-            Descriptor that lists the theme or grouping of this slime 
-          Movement Style
-            Either flying or ground movement. (This is explained in the movement section.)
-          Size
-            Either Large or Small. This affects a slime's interactions with the environment and supports.
-          Effect Box
-            abilities and special rules that this slime abides by
-          Mv(Movement)
-            distance this slime can move measured in inches. (Explained in the movement section.)
-          Ty(type)
-            attack type this slime inflicts on its target
-          Rg(Attack Range)
-            how far a target can be for this slime to be able to attack it.
-          Wk(Weakness)
-            attack type this slime is weak to
-          ATK(attack)
-            amount of dice rolls for an attack
-          Def(Defense)
-            value a roll must succeed on to damage this slime
-          Droplet value
-            the amount of droplets this card is worth when in the slime pool.
-      
-      Support
-        Support items are deployed by slimes to help you reshape the battlefield to your advantage. Turrets, Med-Stations, and even teleporters can help you 
-        take control of the map.
-        Anatomy
-          Name
-            This is the name of the card.
-          Cost
-            The amount of droplets to be expended to play this support from your hand
-          slime size supported
-            description of slimes compatible with this support
-          Effect
-            description of this support and the special rules it abides by
-          HP(Health Points)
-            The value that determines how many successful attacks this support can sustain before being destroyed. (Ie. reaching 0)
-          Droplet Value
-            the amount of droplets this card is worth when in the slime pool.
-      
-      Spells
-        Spells are powerful abilities you can cast with no physical presence. These cards allow you to change the rules of the game, quickly defeat enemies,
-        and even take control of enemy slimes. A well-timed spell can truly be the difference between winning and losing.
-        Anatomy
-          Name
-            This is the name of the card.
-          Cost
-            The amount of droplets to be expended to play this spell from your hand
-          Spell type
-            Either Act or React type. this denotes if the card has a reactionary effect
-          React cost
-            The amount of droplets to be expended to play this spell from your hand during your opponents turn
-          Effect
-            the special ability or action the Spell does.
-          Droplet Value
-            the amount of droplets this card is worth when in the slime pool.
+		      Slimes
+			These cards are used to play your slime miniatures onto the battlefield and track their health, attack, defense, etc. It also describes their effects
+			which can help you turn the tide of battle. 
+		        Anatomy
+		          Name
+		            The name of the card.
+		          HP(Health Points)
+		            The value that determines how many successful attacks this slime can sustain before being destroyed. (Ie. reaching 0)
+		          Cost
+		            The amount of droplets to be expended to play this slime from your hand
+		          Class
+		            The role of this slime
+		          Family
+		            Descriptor that lists the theme or grouping of this slime 
+		          Movement Style
+		            Either flying or ground movement. (This is explained in the movement section.)
+		          Size
+		            Either Large or Small. This affects a slime's interactions with the environment and supports.
+		          Effect Box
+		            abilities and special rules that this slime abides by
+		          Mv(Movement)
+		            distance this slime can move measured in inches. (Explained in the movement section.)
+		          Ty(type)
+		            attack type this slime inflicts on its target
+		          Rg(Attack Range)
+		            how far a target can be for this slime to be able to attack it.
+		          Wk(Weakness)
+		            attack type this slime is weak to
+		          ATK(attack)
+		            amount of dice rolls for an attack
+		          Def(Defense)
+		            value a roll must succeed on to damage this slime
+		          Droplet value
+		            the amount of droplets this card is worth when in the slime pool.
+		      
+		      Support
+		        Support items are deployed by slimes to help you reshape the battlefield to your advantage. Turrets, Med-Stations, and even teleporters can help you 
+		        take control of the map.
+		        Anatomy
+		          Name
+		            This is the name of the card.
+		          Cost
+		            The amount of droplets to be expended to play this support from your hand
+		          slime size supported
+		            description of slimes compatible with this support
+		          Effect
+		            description of this support and the special rules it abides by
+		          HP(Health Points)
+		            The value that determines how many successful attacks this support can sustain before being destroyed. (Ie. reaching 0)
+		          Droplet Value
+		            the amount of droplets this card is worth when in the slime pool.
+		      
+		      Spells
+		        Spells are powerful abilities you can cast with no physical presence. These cards allow you to change the rules of the game, quickly defeat enemies,
+		        and even take control of enemy slimes. A well-timed spell can truly be the difference between winning and losing.
+		        Anatomy
+		          Name
+		            This is the name of the card.
+		          Cost
+		            The amount of droplets to be expended to play this spell from your hand
+		          Spell type
+		            Either Act or React type. this denotes if the card has a reactionary effect
+		          React cost
+		            The amount of droplets to be expended to play this spell from your hand during your opponents turn
+		          Effect
+		            the special ability or action the Spell does.
+		          Droplet Value
+		            the amount of droplets this card is worth when in the slime pool.
 
     Droplets
       On the bottom of every card, written upside down is a Droplet  Value. Once per turn, you can add one card from your hand into your Slime Pool.
@@ -174,10 +175,10 @@ Gameplay
       Calculation
         When attacking you refer to the ATK (Attack) value of the slime that is attacking. This value tells you how many dice you roll for each slime you are 
         targeting with an attack. You then compare the result of each individual die with the DEF (defense) value on your attack target. 
-          A “+” next to a defense number means you must roll that number or higher.
-          A “-” next to a defense number means you must roll that number or lower. 
-          If no symbol is next to a defense value you must roll that exact number. 
-        For every successful roll the target takes 1 hp of damage. 
+          -A “+” next to a defense number means you must roll that number or higher.
+          -A “-” next to a defense number means you must roll that number or lower. 
+          -If no symbol is next to a defense value you must roll that exact number. 
+        For every successful roll, the target takes 1 hp of damage. 
         
         Types and weaknesses
           Each slime has a specific type and weakness. If the attacking slime is the same Ty (Type) as a Wk (Weakness) on the target, you add an additional die 
